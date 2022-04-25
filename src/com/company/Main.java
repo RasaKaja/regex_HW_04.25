@@ -45,14 +45,8 @@ public class Main {
 }
 
 // Write a program that reads the text entered by the user, and then:
-
 //checks if the text equals the word "Java" - if so, prints the message "Equals Java" in the console,
-//For example, for the text "Java", the program should write in the console:
-//Found Java
-//Starts with Java
-//Ends with Java
-//Equals Java
-//0
+
 //and for the text "A java course from scratch is the best way to learn Java", the program should write in the console:
 //Found Java
 //Ends with Java
